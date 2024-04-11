@@ -4,7 +4,7 @@
 - 🤝 I’m looking forward to collaborate on the respective skills!
 - 📫 How to reach me:-
 - utsavdodiya.svmr@gmail.com
-- https://www.linkedin.com/in/utsav-dodiya-642481252/
+- linkedin.com/in/utsavdodiya
 - https://twitter.com/UtsavDodiya8\
 - https://utsaavvportfolio.netlify.app/
   
