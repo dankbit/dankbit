@@ -16,6 +16,8 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![EXPRESS JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 [![An image of @dankbit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dankbit)](https://holopin.io/@dankbit)
-	https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
+	
  
